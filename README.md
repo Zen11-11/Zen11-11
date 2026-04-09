@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="creeper.gif" width="120" />
+  <img src="https://raw.githubusercontent.com/Zen11-11/Zen11-11/main/creeper.gif" width="120" />
 </p>
 
 <br/>
