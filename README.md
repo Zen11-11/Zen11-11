@@ -7,6 +7,12 @@
 <br/>
 
 <p align="center">
+  <img src="creeper.gif" width="120" />
+</p>
+
+<br/>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
