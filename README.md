@@ -1,14 +1,10 @@
+[README (1).md](https://github.com/user-attachments/files/26587857/README.1.md)
+<!-- Troca Zen11-11 pelo seu username -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zen11-11/Zen11-11/raw/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zen11-11/Zen11-11/raw/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://github.com/Zen11-11/Zen11-11/raw/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<br/>
-
-<p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Zen11-11&theme=crt&screen_effect=true" />
-</p>
 
 <br/>
 
